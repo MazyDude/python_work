@@ -1,0 +1,3 @@
+hours, minute, seconds = int(input('Введите количество часов')), int(input('Введите количество минут')), int(input('Введите количество секунд'))
+time = hours * 60 * 60 + minute * 60 + seconds
+print(f'Время в пути в секундах: {time} c')
