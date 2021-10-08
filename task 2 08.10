@@ -1,0 +1,4 @@
+number = input('Введите число(кол-во град в цельсиях)')
+GrC = float(number)
+GrF = 9/5 * GrC + 32
+print(GrF)
