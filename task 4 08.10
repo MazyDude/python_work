@@ -1,5 +1,5 @@
 print('a*x**2 +b*x + c=0')
-a = input('Введите a:')
+a = input('Введите a(неравный 0):')
 b = input('Введите b:')
 c = input('Введите c:')
 a = float(a)
